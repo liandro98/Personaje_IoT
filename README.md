@@ -8,7 +8,11 @@ El objetivo de este proyecto es desarrollar un muñeco representativo de un naci
 | Id | Software | Version | Tipo |
 
 ## Tabla de software utilizado
-
+| <!-- -->      | <!-- -->        | <!-- -->      |
+|:-------------:|:---------------:|:-------------:|
+| Row 1         | **Bold**        | Cell 3        |
+| Row 2         | *Italic*        | Cell 6        |
+| Row 3         | ~~Strike~~      | Cell 9        |
 ## Tabla de historias de usuario
 
 ## Prototipo de dibujo
