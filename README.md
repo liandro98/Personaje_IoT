@@ -6,3 +6,11 @@
 El objetivo de este proyecto es desarrollar un muñeco representativo de un nacimiento, usando los conocimiento adquiridos en la materia
 ## Tabla de software utilizado
 | Id | Software | Version | Tipo |
+
+## Tabla de software utilizado
+
+## Tabla de historias de usuario
+
+## Prototipo de dibujo
+
+## Diagrama en Fritzing
