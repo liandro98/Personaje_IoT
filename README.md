@@ -7,11 +7,11 @@ El objetivo de este proyecto es desarrollar un muñeco representativo de un naci
 ## Tabla de software utilizado
 | Id | Software | Version | Tipo |
 |-|-|-|-|
-|Esp32|Microcontrolador con comunicación serial, wifi, bluetooth|1|||
+
 
 ## Tabla de hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
-|-|-|-|-|
+|-|-|-|-|-|-|
 |Esp32|Microcontrolador con comunicación serial, wifi, bluetooth|1|$140|
 
 ## Tabla de software utilizado
