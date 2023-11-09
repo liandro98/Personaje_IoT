@@ -26,6 +26,5 @@ El objetivo de este proyecto es desarrollar un muñeco representativo de un naci
 ## Prototipo de dibujo
 ![WhatsApp Image 2023-11-08 at 11 09 26 PM](https://github.com/liandro98/Personaje_IoT/assets/138241687/8940511e-bdb7-4219-8af4-d8b751b5427b)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-
 ## Diagrama en Fritzing
+![image](https://github.com/liandro98/Personaje_IoT/assets/138241687/3b49b248-a30a-495d-bd80-bcc183a3d5ef)
