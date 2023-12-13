@@ -35,13 +35,11 @@ El objetivo de este proyecto es desarrollar un muñeco representativo de un naci
 ![image](https://github.com/liandro98/Personaje_IoT/assets/138241687/74736997-9a8e-4246-a616-7b74b50ba235)
 
 ## Video de funcionamiento
-
-
-
 https://github.com/liandro98/Personaje_IoT/assets/138241687/ae32277e-09bd-481d-b154-e55d7a648301
-
-
 https://github.com/liandro98/Personaje_IoT/assets/138241687/14d03bb0-b89e-41c6-bf75-689c08e023a5
+
+## Flujo en node-red
+![image](https://github.com/liandro98/Personaje_IoT/assets/138241687/1aa862a1-a85b-4aa0-b35c-bf886378a4f8)
 
 
 
