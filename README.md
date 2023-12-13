@@ -28,3 +28,21 @@ El objetivo de este proyecto es desarrollar un muñeco representativo de un naci
 
 ## Diagrama en Fritzing
 ![image](https://github.com/liandro98/Personaje_IoT/assets/138241687/3b49b248-a30a-495d-bd80-bcc183a3d5ef)
+
+## Capturas del código
+![image](https://github.com/liandro98/Personaje_IoT/assets/138241687/607a3e06-4140-4911-a344-a04e2f64f412)
+
+![image](https://github.com/liandro98/Personaje_IoT/assets/138241687/74736997-9a8e-4246-a616-7b74b50ba235)
+
+## Video de funcionamiento
+
+
+
+https://github.com/liandro98/Personaje_IoT/assets/138241687/ae32277e-09bd-481d-b154-e55d7a648301
+
+
+https://github.com/liandro98/Personaje_IoT/assets/138241687/14d03bb0-b89e-41c6-bf75-689c08e023a5
+
+
+
+
